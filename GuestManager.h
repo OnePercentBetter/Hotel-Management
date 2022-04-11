@@ -110,13 +110,6 @@ protected:
     std::vector<Guest*> rooms;
     
 };
-class ApplicationManager {
-public:
-private:
-protected:
-    
-    
-}
 #endif
 
 
